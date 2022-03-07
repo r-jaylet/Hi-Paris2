@@ -31,7 +31,7 @@ The second team used RESNET They trained it on Data_Train and other open source 
 | First name | Last name | Year of studies & Profile | School        | Skills                 |
 | ---------- | --------- | ------------------------- | ------        | ------                 |
 | Hugo       | Danet     | M1                        | Telecom       | programming & AI       |
-| Remi       | Jaylet    | M2                        | Telecom       | programming            |
+| Remi       | Jaylet    | M2                        | Telecom x HEC       | programming            |
 | Zakaria    | Atlassi   | M1                        | HEC           | businness              |
 | David      | Wiechmann | M1                        | HEC x Supaero | programming & business |
 
